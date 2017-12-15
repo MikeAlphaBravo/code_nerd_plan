@@ -23,9 +23,9 @@ This web application will offer a miles per gallon tracker for all of your vehic
 - Active Record database
 - Heroku for deployment
 
-#### _CHRISTMAS BREAK_
+#### _CHRISTMAS BREAK AND BEYOND_
 # Coding:
-## Capstone
+## Capstone TOP PRIORITY
 ##### Features beyond MVP
 - A user can ad an image of their vehicle to vehicle profile
 - Admin functionality for maintaining the site or dealing with any user issues
@@ -40,7 +40,7 @@ This web application will offer a miles per gallon tracker for all of your vehic
 - Paperclip
 - D3
 
-## Portfolio
+## Portfolio SECONDARY PRIORITY
 - Get Albums and Photos classes to work with Paperclip and upload an album
 - Layout photo gallery
 - Figure out how to integrate a Bootstrap navbar
@@ -50,37 +50,78 @@ This web application will offer a miles per gallon tracker for all of your vehic
 ## Open Source Contributions
 Dive more into the tutorials I've saved to go through in more depth Ruby, JS or Rails
 - Mozilla
-- FreeCodeCamp.com Christmas submittal call 
+- FreeCodeCamp.com Christmas submittal call
 
+## Future projects THIRD PRIORITY
+Find tutorials on Ruby and Javascript, building off of them and hopefully creating some better ideas of things I would like to and am capable of building.
+- Work on our house website
+- go through the rest of my Lynda.com tutorials
+- Find new ones to work through
+- The pay one the other kids in school are using seems to be beneficial (find out what that is)
 
-##### Bettering Myself as a Coder:
-Reading the JavaScript book
-Reading blogs I've followed or finding new ones
-Write some new blog posts
-Do one whiteboard / tech Q / interview Q per day
+## Bettering Myself as a Coder FORTH PRIORITY
+- Finish reading 'Learning JavaScript'
+- Finish reading 'Practical Object-Oriented Design in Ruby'
+- Reading blogs I've followed or finding new ones (infinate hours spent scrolling and spiraling into Twitter and LinkedIn articles)
 
-##### Proactive about my future:
+Blogs
+- Write blog about finishing code school
+- Write blog about how you feel it has prepared you
+
+Interview Prep
+
+Do one whiteboard / tech Q / interview Q per day.  Resources include:
+- Codewars.com (I really like their format and that it allows me to work on JavaScript basics as well as see more elaborate solutions to problems)
+- codingforinterviews.com/practice
+- github.com/Chalarangelo/30-seconds-of-code/blob/master/README.md
+- rubygarage.org/blog/how-to-interview-your-ruby-on-rails-developer
+
+## Proactive about my future:
 Reading up on companies I want to apply to
 Writing those cover letters and resumes
+- Periscopic
+- Brand Identity VR
+- 360 Labs
+- The Dyrt
+- Binded.com
+- AppFog PaaS
+- StackPath
+- Treehouse
+- The Clymb
+- HubSpot
+- CrowdCompass
+- Simple
+- WILD
+- Switchboard
+- Teak
+- Seed
+- Customer.io
+- Cozy
+- iotas
+- Lytics
+- Notion
+- Opal
+- Civil
+- Cloudability
+- Act-On
+- Chroma
+- Turbine Labs
+- Marmoset
+- New Relic
+- Puppet
+- Airbnb
+- Vacasa
+- Mozilla
+- Amazon
+
 Applying to jobs Portland and out of state
 updating or posting to LinkedIn / Twitter
 
-#### DURING INTERNSHIP
-##### Coding:
-Same as above
+Go to meetups
 
-##### Bettering Myself as a Coder:
-Same as above
+![alt text](/images/MeetUps.png)
 
-##### Proactive about my future:
-Same as above
+volunteer at Ruby Brigade, Community Talking Tech and TechTalk PDX
 
-#### LONG TERM
-##### Coding:
-Build something awesome
-
-**[Michael A. Brooks]**: mailto:mikealphabravo1982@gmail.com
-
-#### Built With
-
-* [Atom](https://atom.io/) - Text editor
+Find more conferences and gatherings:
+- May 3 and 4 RubyHACK in Salt Lake City
