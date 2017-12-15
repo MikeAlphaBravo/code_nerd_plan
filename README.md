@@ -125,3 +125,11 @@ volunteer at Ruby Brigade, Community Talking Tech and TechTalk PDX
 
 Find more conferences and gatherings:
 - May 3 and 4 RubyHACK in Salt Lake City
+
+
+##### The overall theme here is code more.  Code often.  Code well.  I know this will be my greatest challenge as I enjoy and am good at a lot of the other things.  So I will ask when I need help, look until I cannot look any longer and persevere.  I offer a lot as an employee but I am still a very weak coder.  
+##### I need to work on developing good coding habits to be productive with my time while not getting so lost that the time is wasted.  I have developed better habits coding all day every day and hope to utilize those skills and not get lazy.  
+##### I need to set aside specific time in my real life once I am back at a normal job or it will not happen.  
+##### I also really need to get everything I can out of this internship opportunity and come away with it ahead of where I went into it.  My goal and hope with all of that is to work more in depth on one or two things rather than jumping from topic to topic.
+
+Thank you Franz for all the guidance.  You are irreplaceable in your kind and wise words.
