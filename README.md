@@ -80,6 +80,7 @@ Do one whiteboard / tech Q / interview Q per day.  Resources include:
 Reading up on companies I want to apply to
 Writing those cover letters and resumes
 - Periscopic
+- Duo, Ann Arbor MI
 - Brand Identity VR
 - 360 Labs
 - The Dyrt
